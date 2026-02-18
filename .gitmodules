@@ -8,3 +8,6 @@
 [submodule "toxSummary"]
 	path = toxSummary
 	url = https://github.com/phuse-org/toxsummary
+[submodule "uteals"]
+	path = uteals
+	url = https://github.com/phuse-org/uteals
